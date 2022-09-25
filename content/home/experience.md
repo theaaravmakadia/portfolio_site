@@ -29,7 +29,7 @@ experience:
     location: New York City, New York
     date_start: '2023-05'
     date_end: '2023-08'
-    description: Engineering Markets, Community & AI: Bloomberg Insights Platform as a Service (IPaaS) Framework Team
+    description: Engineering Markets, Community and AI - Bloomberg Insights Platform as a Service (IPaaS) Framework Team
 
   - title: Professor of Semiconductor Physics
     company: University X
