@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: About
+widget_id: about
 headless: true
 weight: 20
 title: Biography
@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: 1656733467490-2-.jpeg
+    image: ""
 ---
