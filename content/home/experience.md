@@ -25,7 +25,7 @@ experience:
   - title: Incoming Software Engineer Intern
     company: Bloomberg LP
     company_url: ''
-    company_logo: blp
+    company_logo: blp.jpeg
     location: New York City, New York
     date_start: '2023-05'
     date_end: '2023-08'
