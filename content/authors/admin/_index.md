@@ -65,5 +65,3 @@ highlight_name: true
 Aarav M. Makadia is a B.S., CS Student at Rutgers SAS - NB, with a broad background in research in academia and software engineering. His research interests include Broad AI (Reinforcement ML, Robotics, DL), Statistics and Data, IoT and Autonomy, and Economics/Business in AI. His background in academic research includes work with academics at Harvard Business School, Northwestern Kellogg School of Management, and The Wharton School of UPenn, and he is currently jointly funded by the National Science Foundation and Rutgers Research.
 
 Aarav has interned as a software engineer at a variety of companies including Bloomberg LP. He is also a Co-Founder of Pupil, an upcoming student mentorship platform focused on revolutionizing the way peers learn from one another!
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
