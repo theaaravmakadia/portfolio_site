@@ -37,8 +37,13 @@ experience:
     company_logo: nsf
     location: New Brunswick, New Jersey
     date_start: '2022-09-01'
-    description: Rutgers School of Arts and Sciences/Louis Stokes AMP Research Scholar
-
+    description: |2-
+    
+        Rutgers School of Arts and Sciences/National Science Foundation Funded Research
+        * Under Professor Xiang Liu on "Artificial Intelligence Aided Next Generation Intelligent Transportation Systems"
+        * Develop and customize AI techniques under Ph.D advisory to assess high-impact transportation issues
+        * Construct research report for study with the use of data collected on AI in transportation and configured techniques
+    
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
