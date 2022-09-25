@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Incoming Software Engineer Intern
     company: Bloomberg LP
-    company_url: 'bloomberg.com'
+    company_url: ''
     company_logo: blp
     location: New York City, New York
     date_start: '2023-05'
@@ -38,7 +38,9 @@ experience:
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2- 
+    
+        Taught electronic engineering and researched semiconductor physics.
         Responsibilities include:
         
         * Analysing
