@@ -30,6 +30,14 @@ experience:
     date_start: '2023-05-01'
     date_end: '2023-08-01'
     description: Engineering Markets, Community and AI - Bloomberg Insights Platform as a Service (IPaaS) Framework Team
+    
+  - title: Louis Stokes Research Scholar and URA
+    company: National Science Foundation
+    company_url: ''
+    company_logo: nsf
+    location: New Brunswick, New Jersey
+    date_start: '2022-09-01'
+    description: Rutgers School of Arts and Sciences/Louis Stokes AMP Research Scholar
 
   - title: Professor of Semiconductor Physics
     company: University X
