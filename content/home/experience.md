@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: blp
     location: New York City, New York
-    date_start: 'May 2023'
-    date_end: 'August 2023'
+    date_start: '2023-05-01'
+    date_end: '2023-08-01'
     description: Engineering Markets, Community and AI - Bloomberg Insights Platform as a Service (IPaaS) Framework Team
 
   - title: Professor of Semiconductor Physics
