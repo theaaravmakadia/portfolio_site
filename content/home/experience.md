@@ -49,6 +49,7 @@ experience:
     company_logo: org-x
     location: New York City, New York
     date_start: '2020-06-01'
+    date_ended: '2022-09-01'
     description: |2- 
     
         Founded social platform (React Native, JavaScript, GCP) matching high schoolers and mentors (undergraduate/graduate, alumni, affiliates) from partnered universities/organizations via an algorithm of commonalities (interests in school, study, and careers)
