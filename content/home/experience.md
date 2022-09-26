@@ -46,7 +46,7 @@ experience:
   - title: Co-Founder
     company: Pupil
     company_url: ''
-    company_logo: org-x
+    company_logo: pupil
     location: New York City, New York
     date_start: '2020-06-01'
     date_end: '2022-09-01'
