@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Aarav Makadia is a B.S., CS Student at Rutgers SAS - NB, with a broad background in academic research and software engineering.'
+    twitter: 'aaravmakadia'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '©2022 Aarav Makadia'
     license:
       enable: true
       allow_derivatives: false
