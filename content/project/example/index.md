@@ -1,7 +1,6 @@
 ---
 title: COVIDConnector
 summary: Created with React.js, Gatsby and the Strapi CMS, COVIDConnector allows individuals to sign up as volunteers or requestors within a community. This web-app creates an efficient and secure system for volunteers & those in need to connect and stay active members of their community. 
-image: proj 
 tags:
   - AI
 date: '2016-04-27T00:00:00Z'
